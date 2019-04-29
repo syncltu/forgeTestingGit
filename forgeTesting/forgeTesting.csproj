@@ -86,10 +86,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Controllers\js\ForgeTree.js" />
-    <Content Include="Controllers\js\ForgeViewer.js" />
+    <Content Include="js\ForgeTree.js" />
+    <Content Include="js\ForgeViewer.js" />
     <Content Include="Global.asax" />
-    <Content Include="Controllers\css\main.css" />
+    <Content Include="css\main.css" />
     <Content Include="index.html" />
     <Content Include="Web.config" />
   </ItemGroup>
